@@ -41,6 +41,14 @@
             android:padding="10dp"
             android:text="Remove" />
 
+        <Button
+            android:id="@+id/btn3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="10dp"
+            android:text="To Second Activity" />
+
 
     </LinearLayout>
 
